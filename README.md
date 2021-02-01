@@ -17,6 +17,13 @@
 1 тема (18 января, занятие 1)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/master/01_Introduction)
 
+2 тема (25 января – 1 февраля, занятие 2)  
+[Строки. Ввод и вывод. Списки и кортежи
+(https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/02_Strings_Lists_Tuples)
+
+3 тема
+[Срезы. Условный оператор. Цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/03_If_Else_While)
+
 ## Домашние задания
 TBA
 
