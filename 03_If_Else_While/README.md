@@ -4,3 +4,4 @@
 
 ## Задачи
 * [Задачи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/blob/master/03_If_Else_While/2020_CPK_3_0_Problems.ipynb)
+* [Решения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/blob/main/03_If_Else_While/2020_CPK_3_0_Problems_Solution.ipynb)
