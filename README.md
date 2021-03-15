@@ -17,14 +17,20 @@
 1 тема (18 января, занятие 1)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/master/01_Introduction)
 
-2 тема (25 января – 1 февраля, занятия 2 — 3)  
+2 тема (25 января – 1 февраля, занятия 2—3)  
 [Строки. Ввод и вывод. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/02_Strings_Lists_Tuples)
 
-3 тема (8 февраял, занятие 4)  
+3 тема (8 февраля, занятие 4)  
 [Срезы. Условный оператор. Цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/03_If_Else_While)
 
-4 тема (15 февраля, занятие 5)  
+4 тема (15, 26 февраля, занятия 5—6)  
 [Цикл for. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/04_Set_Dict_For)
+
+5 тема (1, 12 марта, занятия 7—8)
+[Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/05_Functions_Files)
+
+6 тема (15 марта, занятие 9)
+[Работа со строками и регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/06_Stringx_RegEx)
 
 ## Домашние задания
 
@@ -33,6 +39,7 @@
 | 22 февраля 23.59 | [ДЗ1 Часть 1](https://online.hse.ru/mod/quiz/view.php?id=211513) | 5  / 10 |
 | 1 марта 23.59 | [ДЗ1 Часть 2](https://online.hse.ru/mod/quiz/view.php?id=217381) | 5  / 10 |
 | 15 марта 23.59 | [ДЗ2 (полностью)](https://online.hse.ru/mod/quiz/view.php?id=224434) | 10  / 10 |
+| 29 марта 23.59 | [ДЗ3 Часть 1](https://online.hse.ru/mod/quiz/view.php?id=228843) | 5  / 10 |
 
 Всего на курсе запланировано четыре домашних заданий (некоторые будут разбиты на две части), на выполнение дается неделя.
 
@@ -40,7 +47,7 @@
 
 
 ## Как работать с Github?
-Для скачивания файлов с Github необязательно иметь аккаунт, достаточно кликнуть на зеленую кнопку Clone or download в правом верхнем углу, выбрать Download ZIP и распаковать архив. В папке 2020_CPK_Python_for_Data_Analysis-3 будут все файлы, загруженные на Github на момент скачивания.
+Для скачивания файлов с Github необязательно иметь аккаунт, достаточно кликнуть на зеленую кнопку Clone or download в правом верхнем углу, выбрать Download ZIP и распаковать архив. В папке 2020_CPK_Python_for_Data_Analysis-4 будут все файлы, загруженные на Github на момент скачивания.
 
 Если файл .ipynb сохраняется как текст или с лишним расширением (например, .txt), то нужно выбрать при сохранении тип файла все файлы, 
 а не текст, или после сохранения убрать вручную расширение, переименовав файл.
