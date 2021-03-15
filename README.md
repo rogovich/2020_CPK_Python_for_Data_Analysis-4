@@ -17,14 +17,20 @@
 1 тема (18 января, занятие 1)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/master/01_Introduction)
 
-2 тема (25 января – 1 февраля, занятия 2 — 3)  
+2 тема (25 января – 1 февраля, занятия 2—3)  
 [Строки. Ввод и вывод. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/02_Strings_Lists_Tuples)
 
-3 тема (8 февраял, занятие 4)  
+3 тема (8 февраля, занятие 4)  
 [Срезы. Условный оператор. Цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/03_If_Else_While)
 
-4 тема (15 февраля, занятие 5)  
+4 тема (15, 26 февраля, занятия 5—6)  
 [Цикл for. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/04_Set_Dict_For)
+
+5 тема (1, 12 марта, занятия 7—8)
+[Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/05_Functions_Files)
+
+6 тема (15 марта, занятие 9)
+[Работа со строками и регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/06_Stringx_RegEx)
 
 ## Домашние задания
 
