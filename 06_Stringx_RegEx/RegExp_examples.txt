@@ -1,0 +1,34 @@
+twister = '''Two toads, terribly tired, trotted along the road.\nSaid toad number 1 to the toad number Two:\n'I'm tired, and I'm carrying the load.'''
+
+text = "12 ноября 2011 года произошло удивительное событие. А 13 ноября 2012 - еще удивительнее. Даже не будем \
+говорить, что произошло 2 декабря 2011 года и 25 декабря 2012 года."
+
+text2 = "По имеющимся данным, в Екатеринбургской губернии на май 1916 года было занято 50611 военнопленных,\
+из них 34194 на фабричных и заводских работах, 5731 на «казённых», 5060 на сельскохозяйственных,\
+4145 на железнодорожных, 913 на городских и земских, 568 на прочих."
+
+tweets = "#я не могу молчать #я не могу кричать #я не могу #я справлюсь я не могу молчать #я не могу жить #я все могу #с кем не бывает"
+
+data = '20.05.1963, 55, 12.12.2000, 17, 15/15/1111'
+
+site = 'https://beru.ru/product/konditsioner-dlia-belia-aroma-rich-fairy-lion-0-43-l-paket/100583881004'
+
+text = 'hfjklhgadsfk_7fjhsdkl867589065,bhjk4\n5jfnkld45'
+
+string = 'Десять негритят отправились обедать, \
+          Один поперхнулся, их осталось девять.'
+          
+аяоеуюыиэеАЯОЕУЮЫИЭ
+
+numbers = ['С227НА777','КУ22777','Т22В7477','М227К19У9','С227НА8777']
+answers = ['Private','Taxi','Fail','Fail','Fail']
+
+АВЕКМНОРСТУХ
+
+test_str = "1NoahEmma2LiamOlivia3MasonSophia4JacobIsabella5WilliamAva6EthanMia7MichaelEmily"
+
+pig = "Рыла свинья белорыла, тупорыла; полдвора рылом изрыла, вырыла, подрыла."
+
+users = 'Василий Зайцев, Erwin König, Людмила Павличенко, Josef Allerberger, Matthäus Hetzenauer, Александр Башлачёв'
+
+email = 'iawpghnube1206@gmail.com\r\n+79151489999 fd,d_e@gmail.com(telegram @vasiiesal)привет@yandex.ru/ test.tewst2@subsubdomain.subdomain.domain.ru.!'
