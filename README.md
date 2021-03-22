@@ -26,10 +26,10 @@
 4 тема (15, 26 февраля, занятия 5—6)  
 [Цикл for. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/04_Set_Dict_For)
 
-5 тема (1, 12 марта, занятия 7—8)
+5 тема (1, 12 марта, занятия 7—8)  
 [Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/05_Functions_Files)
 
-6 тема (15 марта, занятие 9)
+6 тема (15 марта, занятие 9)  
 [Работа со строками и регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/06_Stringx_RegEx)
 
 ## Домашние задания
