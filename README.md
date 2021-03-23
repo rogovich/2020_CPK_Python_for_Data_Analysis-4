@@ -32,6 +32,9 @@
 6 тема (15 марта, занятие 9)  
 [Работа со строками и регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/06_Stringx_RegEx)
 
+7 тема(22-29 марта, занятия 10-11)
+[Web-Scraping](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/07_WebScraping)
+
 ## Домашние задания
 
 | ДЕДЛАЙН: | Ссылка: | МАКС. БАЛЛ |
