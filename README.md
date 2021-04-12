@@ -44,6 +44,7 @@
 | 15 марта 23.59 | [ДЗ2 (полностью)](https://online.hse.ru/mod/quiz/view.php?id=224434) | 10  / 10 |
 | 29 марта 23.59 | [ДЗ3 Часть 1](https://online.hse.ru/mod/quiz/view.php?id=228843) | 5  / 10 |
 | 5 апреля 23.59 | [ДЗ3 Часть 2](https://online.hse.ru/mod/quiz/view.php?id=230093) | 5  / 10 |
+| 26 апреля 23.59 | [ДЗ4](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/blob/main/HW4/4_Homework_Pandas_Viz.ipynb) [Dropbox для сдачи](https://www.dropbox.com/request/HbpmNhh4IqFJrcLgUqDE) | 13.5  / 10 |
 
 
 Всего на курсе запланировано четыре домашних заданий (некоторые будут разбиты на две части), на выполнение дается неделя.
