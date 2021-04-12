@@ -35,13 +35,13 @@
 7 тема(22-29 марта, занятия 10-11)  
 [Web-Scraping](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/07_WebScraping)
 
-8 тема (5–12 апреля, занятия 12–13)
+8 тема (5–12 апреля, занятия 12–13)  
 [Numpy. Pandas](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/08_Numpy_Pandas)
 
-9 тема (12–19 апреля, занятия 13-14)
+9 тема (12–19 апреля, занятия 13-14)  
 [Визуализация данных](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/09_VIZ)
 
-10 тема (19 апреля, занятие 14)
+10 тема (19 апреля, занятие 14)  
 
 ## Домашние задания
 
