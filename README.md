@@ -23,17 +23,25 @@
 3 тема (8 февраля, занятие 4)  
 [Срезы. Условный оператор. Цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/03_If_Else_While)
 
-4 тема (15, 26 февраля, занятия 5—6)  
+4 тема (15–26 февраля, занятия 5—6)  
 [Цикл for. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/04_Set_Dict_For)
 
-5 тема (1, 12 марта, занятия 7—8)  
+5 тема (1—12 марта, занятия 7—8)  
 [Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/05_Functions_Files)
 
 6 тема (15 марта, занятие 9)  
 [Работа со строками и регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/06_Stringx_RegEx)
 
-7 тема(22-29 марта, занятия 10-11)
+7 тема(22-29 марта, занятия 10-11)  
 [Web-Scraping](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/07_WebScraping)
+
+8 тема (5–12 апреля, занятия 12–13)
+[Numpy. Pandas](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/08_Numpy_Pandas)
+
+9 тема (12–19 апреля, занятия 13-14)
+[Визуализация данных](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4/tree/main/09_VIZ)
+
+10 тема (19 апреля, занятие 14)
 
 ## Домашние задания
 
